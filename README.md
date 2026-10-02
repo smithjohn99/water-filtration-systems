@@ -1,86 +1,106 @@
-# Water Filtration Systems — A Practical Guide to Cleaner, Safer Drinking Water
+# Water Filtration Systems
 
-Clean drinking water is one of those things you don't think about until something goes wrong — a strange taste from the tap, cloudy water after pipe work in your street, or a water quality report that makes you pause. This guide breaks down how home water filtration actually works, what the different systems do, and how to pick the right one for your household. No jargon, no sales pitch — just what I've learned from researching and living with these systems.
+A practical guide to cleaner drinking water at home. I put this together after spending way too many evenings reading water quality reports and comparing filter specs, so you don't have to.
 
----
+## Why I started filtering my water
 
-## Why filter your tap water at all?
+My tap water was technically fine. That's what the city report said every year. But it tasted like a swimming pool, my kettle scaled up every few weeks, and after some pipe work on my street the water ran cloudy for two days. "Technically fine" stopped being good enough.
 
-Municipal water in most places is treated and technically safe, but "safe" and "great" aren't the same thing. Tap water can carry:
+Turns out municipal water picks up a lot on its way to your glass:
 
-- **Chlorine and chloramines** — added as disinfectants, but they give water that swimming-pool taste and smell
-- **Sediment and rust** — especially in older buildings with aging pipes
-- **Lead** — still a real concern in homes with old plumbing or lead service lines
-- **PFAS ("forever chemicals")** — increasingly detected in water supplies worldwide
-- **Hardness minerals** — calcium and magnesium that scale up kettles, dishwashers, and water heaters
-- **Microplastics, pesticides, and pharmaceutical residues** — present in trace amounts in many supplies
+* Chlorine and chloramines. They keep water safe in the pipes, but they are also why your tap smells like a pool.
+* Sediment and rust, especially if your building has old plumbing.
+* Lead. Still a real problem in homes with old pipes or lead service lines.
+* PFAS, the so called forever chemicals, showing up in more and more water supplies.
+* Hardness minerals like calcium and magnesium. They are what kill your kettle, your dishwasher, and your water heater slowly.
+* Trace stuff nobody wants to think about. Microplastics, pesticide runoff, pharmaceutical residues.
 
-A good filtration system doesn't just improve taste — it acts as a final barrier between the treatment plant and your glass.
+A filter is the last checkpoint between the treatment plant and your glass. Worth getting right.
 
-## The main types of home water filtration
+## The main types of systems, in plain English
 
-### 1. Activated carbon filters
-The most common and affordable option. Carbon (usually coconut-shell based) adsorbs chlorine, bad tastes, odors, and many organic compounds. You'll find it in pitcher filters, faucet attachments, and under-sink cartridges. Limitation: it doesn't remove dissolved minerals, salts, or most heavy metals on its own.
+### Activated carbon filters
 
-### 2. Reverse osmosis (RO) systems
-The gold standard for drinking water purification. RO forces water through a semi-permeable membrane with pores around 0.0001 microns — small enough to reject dissolved salts, lead, fluoride, nitrates, PFAS, and the vast majority of contaminants. A typical under-sink RO unit has 4–5 stages: sediment pre-filter, carbon pre-filter, the RO membrane itself, a polishing carbon filter, and sometimes a remineralization stage.
+The most common option and the cheapest way in. Carbon, usually made from coconut shells, soaks up chlorine, bad tastes, smells, and a bunch of organic compounds. This is what's inside pitcher filters, faucet attachments, and most under sink cartridges.
 
-If your priority is the purest possible drinking water, an RO system is the most thorough single solution you can install at home.
+What it won't do: remove dissolved minerals, salts, or most heavy metals. It's a taste and odor fix, not a purification system.
 
-### 3. UV purification
-Ultraviolet light neutralizes bacteria, viruses, and other microorganisms by disrupting their DNA. UV doesn't remove chemicals or improve taste — it's usually paired with carbon or RO as a final disinfection stage, popular for well water.
+### Reverse osmosis (RO)
 
-### 4. Water softeners (ion exchange)
-These swap calcium and magnesium ions for sodium or potassium, eliminating hardness. Great for protecting appliances and plumbing, but softeners aren't drinking-water filters — softened water still needs filtration for taste and contaminants.
+This is the heavy hitter. RO pushes water through a membrane with pores around 0.0001 microns. That's small enough to block dissolved salts, lead, fluoride, nitrates, PFAS, and the vast majority of contaminants.
 
-### 5. Whole-house vs. point-of-use
-- **Whole-house systems** treat every tap — ideal for sediment, chlorine, and hardness issues affecting showers, laundry, and appliances.
-- **Point-of-use systems** (under-sink, countertop) focus on the water you actually drink and cook with. For most households, a quality point-of-use system is the best value.
+A typical under sink RO unit runs 4 to 5 stages. Sediment pre filter, carbon pre filter, the RO membrane itself, a polishing carbon filter, and sometimes a remineralization stage at the end.
 
-## How to choose the right system
+If you want the cleanest drinking water you can get at home, this is it. Nothing else in this list comes close for dissolved contaminants.
 
-Start with your water, not with a product page:
+### UV purification
 
-1. **Get your water tested.** Many municipalities publish annual quality reports. For well water or older homes, an independent lab test ($20–50) tells you exactly what's in there.
-2. **Match the system to the problem.** Chlorine taste? Carbon is enough. Lead, PFAS, or high TDS? You want reverse osmosis. Bacteria concerns? Add UV.
-3. **Consider your household size.** A family of five goes through far more filtered water than a single person — check daily production ratings.
-4. **Factor in maintenance.** Every system has consumable filters or membranes. Look up replacement costs and intervals before you buy, not after.
-5. **Check certifications.** NSF/ANSI 42, 53, 58, and 401 certifications mean a product's claims were independently verified. This matters more than marketing copy.
+Ultraviolet light kills bacteria and viruses by wrecking their DNA. It does nothing for chemicals, taste, or smell. Usually paired with carbon or RO as a final disinfection step. Common for well water setups.
 
-## Living with an RO system: what to expect
+### Water softeners
 
-Installation is usually a 1–2 hour job under the kitchen sink — most units come with clear instructions, or a plumber can do it quickly. Day to day, you'll notice the difference immediately: no chlorine smell, cleaner-tasting coffee and tea, no scale in the kettle.
+These swap calcium and magnesium for sodium or potassium through ion exchange. Great for your appliances and plumbing, terrible as a drinking water solution on their own. Softened water still needs actual filtration.
 
-Maintenance is straightforward:
-- **Sediment and carbon pre-filters:** replace every 6–12 months
-- **RO membrane:** typically lasts 2–3 years depending on feed water quality
-- **Polishing filter:** replace annually
+### Whole house vs point of use
 
-The main trade-off with RO is wastewater — traditional systems reject some water during purification. Modern high-efficiency units have cut the waste ratio dramatically, so look for efficiency ratings if that matters to you. Some people also add a remineralization cartridge to put healthy minerals back and balance pH.
+Whole house systems treat every tap in the home. Makes sense if you have sediment, chlorine, or hardness problems affecting showers, laundry, and appliances.
 
-When you're ready to compare actual units and prices, you can [buy RO System](https://www.illiwater.com/collections/reverse-osmosis-systems) options there and check specs side by side — pay attention to stage count, membrane rating (GPD), and NSF certifications rather than just the price tag.
+Point of use systems sit under one sink and handle just your drinking and cooking water. For most people this is the sweet spot on value. You don't need lab grade water coming out of your garden hose.
 
-## Frequently asked questions
+## How to actually choose one
 
-**Does reverse osmosis remove healthy minerals?**
-Yes, RO removes most dissolved minerals along with contaminants. That's why many systems include a remineralization stage. For most people with a balanced diet, the minerals in drinking water are a minor nutritional source anyway.
+Don't start on a product page. Start with your water.
 
-**Is RO water too pure / aggressive?**
-This is a common myth. RO water is simply very clean water. Remineralization cartridges address taste and pH preferences, but plain RO water is perfectly fine to drink.
+**Get it tested.** Your city probably publishes a water quality report every year, go read it. On well water or in an old house, pay for an independent lab test. It costs 20 to 50 bucks and tells you exactly what you're dealing with.
 
-**How much does a good system cost?**
-Under-sink RO systems typically run $150–$500 for the unit, plus $50–$100/year in replacement filters. Whole-house systems start around $500 and go up from there depending on capacity.
+**Match the system to the problem.** Just chlorine taste? Carbon handles it. Lead, PFAS, or high TDS readings? You want reverse osmosis. Worried about bacteria? Add UV to the mix.
+
+**Think about how much water you use.** A family of five burns through way more filtered water than someone living alone. Check the daily production rating before you buy.
+
+**Look at maintenance costs first, not last.** Every system eats replacement filters or membranes. Look up what replacements cost and how often you need them before you commit. This is where cheap units get expensive.
+
+**Trust certifications, not marketing.** NSF/ANSI 42, 53, 58, and 401 mean an independent lab verified the claims. A product page saying "removes 99.9% of everything" means nothing without that.
+
+## What living with an RO system is really like
+
+Installation took me about an hour and a half under the kitchen sink. Most units come with decent instructions. If you'd rather not cut into a water line yourself, a plumber knocks it out in under two hours.
+
+The difference is immediate. No chlorine smell. Coffee and tea taste noticeably better. The kettle stays clean.
+
+Maintenance is simple but you do have to stay on it:
+
+* Sediment and carbon pre filters: every 6 to 12 months
+* RO membrane: every 2 to 3 years depending on your incoming water quality
+* Polishing filter: once a year
+
+The honest downside of RO is wastewater. Older systems wasted a lot of water during purification. Newer high efficiency units are much better, so check the waste ratio if that matters to you. I also run a remineralization cartridge, which puts some minerals back and keeps the pH balanced. Not strictly necessary, but the water tastes better to me.
+
+When you're ready to look at actual units, you can [buy RO System](https://www.illiwater.com/collections/reverse-osmosis-systems) models there and compare specs side by side. Ignore the marketing and look at stage count, membrane rating in GPD, and NSF certifications. That's what actually separates good units from mediocre ones.
+
+## Questions I kept asking while researching
+
+**Does RO strip out the good minerals too?**
+
+Yes, it takes most dissolved minerals along with the bad stuff. That's what the remineralization stage is for. Honestly though, for most people with a normal diet, drinking water is a minor source of minerals anyway.
+
+**Is RO water too pure to drink?**
+
+No. That's a myth that won't die. It's just very clean water. Remineralization helps with taste if you find plain RO flat, but there's nothing harmful about it.
+
+**What does a decent setup cost?**
+
+Under sink RO units run 150 to 500 dollars, plus 50 to 100 a year in replacement filters. Whole house systems start around 500 and climb depending on capacity.
 
 **Can I install it myself?**
-Most under-sink systems are designed for DIY installation with basic tools. If you're not comfortable cutting into a water line, a plumber can usually finish the job in under two hours.
 
-**How do I know when to change filters?**
-Falling water pressure, returning tastes/odors, or a TDS meter reading creeping up are all signs. Many modern units also have filter-life indicator lights.
+Most under sink kits are built for DIY with basic tools. If cutting into a water line makes you nervous, hire a plumber. It's a quick job for them.
 
----
+**How do I know when filters need changing?**
 
-## A final word
+Pressure drops, tastes or smells come back, or your TDS meter starts creeping up. A lot of newer units have filter life indicator lights too, which takes the guesswork out.
 
-There's no single "best" water filtration system — there's only the best one for your water, your home, and your budget. Test first, buy second, and maintain what you install. Your tap water is something you interact with dozens of times a day; making it genuinely clean is one of the highest-leverage upgrades you can make to your home.
+## My take
 
-*This is a living document — I'll keep updating it as I test more systems and learn more. Corrections and suggestions are welcome via issues.*
+There is no single best water filtration system. There's only the best one for your water, your house, and your budget. Test your water first, buy second, and actually maintain whatever you install. You use tap water dozens of times a day. Making it genuinely clean is one of the best upgrades you can make to a home.
+
+*I'll keep updating this as I try more systems. If something here is wrong or outdated, open an issue and tell me.*
