@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smithjohn99.github.io/water-filtration-systems/sitemap.xml
