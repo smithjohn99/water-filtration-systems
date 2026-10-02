@@ -99,8 +99,4 @@ Most under sink kits are built for DIY with basic tools. If cutting into a water
 
 Pressure drops, tastes or smells come back, or your TDS meter starts creeping up. A lot of newer units have filter life indicator lights too, which takes the guesswork out.
 
-## My take
-
-There is no single best water filtration system. There's only the best one for your water, your house, and your budget. Test your water first, buy second, and actually maintain whatever you install. You use tap water dozens of times a day. Making it genuinely clean is one of the best upgrades you can make to a home.
-
 *I'll keep updating this as I try more systems. If something here is wrong or outdated, open an issue and tell me.*
